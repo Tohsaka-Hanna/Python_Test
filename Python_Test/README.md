@@ -46,5 +46,5 @@ Desde la terminal, navega hasta la ubicación de la carpeta y ejecuta el archivo
 Por ejemplo:
 
 ```bash
-python archivo.py
+python "archivo".py
 ```
