@@ -24,7 +24,7 @@ Los ejercicios se desarrollan siguiendo una estructura progresiva:
 4. Resolver el problema mediante pasos intermedios cuando sea necesario.
 5. Utilizar estructuras condicionales para tomar decisiones.
 6. Obtener el resultado final.
-7. Mostrar los resultados mediante `print()` y *f-strings*.
+7. Mostrar los resultados mediante `print()` y `f-strings`.
 
 ## Objetivos
 
