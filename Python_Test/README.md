@@ -4,18 +4,15 @@ Este es el primer módulo de mi repositorio de prácticas de Python. Aquí docum
 
 ## Contenido
 
-* **0_Matematicas.py**: Script que contiene ejercicios de:
+* **`0_Matematicas/`**: Carpeta que contiene retos y ejercicios matemáticos progresivos, comenzando con operaciones básicas y avanzando hacia problemas que requieren mayor razonamiento lógico.
 
-  * Suma
-  * Resta
-  * Multiplicación
-  * División
-  * Resolución de problemas matemáticos
-  * Operaciones encadenadas
-  * Porcentajes
-  * Aumentos y descuentos
-  * Condicionales `if`, `elif` y `else`
-  * Toma de decisiones basada en valores
+  * Operaciones aritméticas básicas.
+  * Resolución de problemas matemáticos.
+  * Operaciones encadenadas.
+  * Porcentajes.
+  * Aumentos y descuentos.
+  * Estructuras condicionales `if`, `elif` y `else`.
+  * Toma de decisiones basada en valores.
 
 ## Metodología
 
@@ -44,17 +41,10 @@ Los ejercicios se desarrollan siguiendo una estructura progresiva:
 
 ## Cómo ejecutar
 
-Desde la terminal, navega hasta la ubicación de esta carpeta y ejecuta el archivo `.py` correspondiente:
+Desde la terminal, navega hasta la ubicación de la carpeta y ejecuta el archivo `.py` correspondiente.
+
+Por ejemplo:
 
 ```bash
-python 0_Matematicas.py
-```
-```bash
-python 1_Matematicas.py
-```
-```bash
-python 2_Matematicas.py
-```
-```bash
-python 3_Matematicas.py
+python archivo.py
 ```
