@@ -1,5 +1,43 @@
 # ==========================================
 # Ejercicio 2 — Clasificación de estudiante
+#
+# Una universidad quiere generar un informe académico de un estudiante.
+#
+# El programa debe recibir:
+# - Nombre del estudiante.
+# - Nota de Matemáticas.
+# - Nota de Programación.
+# - Porcentaje de asistencia.
+#
+# Para cada materia:
+# - Si la nota es 4.5 o superior → "Nota excelente".
+# - Si la nota es 3.5 o superior → "Aprobado".
+# - Si la nota es menor a 3.5 → "Reprobado".
+#
+# Después, el programa debe calcular el promedio de las dos materias.
+#
+# El rendimiento según el promedio será:
+# - 4.5 o superior → Rendimiento superior.
+# - 3.5 a 4.49 → Rendimiento promedio.
+# - Menor de 3.5 → Rendimiento mediocre.
+#
+# También debe analizar la asistencia:
+# - 90 % o superior → Excelente.
+# - 80 % a 89 % → Alta.
+# - 70 % a 79 % → Aceptable.
+# - Menor de 70 % → Nefasta.
+#
+# Regla especial:
+# - Si la asistencia es menor al 70 %, el estudiante reprueba
+#   automáticamente sin importar sus notas.
+#
+# Finalmente, el programa debe mostrar un informe con:
+# - Nombre.
+# - Notas de cada materia.
+# - Promedio.
+# - Rendimiento académico.
+# - Porcentaje de asistencia.
+# - Resultado final.
 # ==========================================
 
 Estudiante = "Carlos"
